@@ -10,13 +10,14 @@ permalink: /mod-project/beat-saber-wire-cube
 <li>Arrow on default bloq is highly stylised, and therefore less readable.</li></ul>
 
 ## Proposed Solution:
-Solution Requirements:
+**Solution Requirements:**
 <ul><li>Blocks take up less screen space and/or is less distracting.</li>
 <li>The directional arrow becomes more clear.</li></ul>
 
-Action Items:
+**Action Items:**
 <ul><li>Create a replacement .bloq usesable with the <Custom Notes> mod for PC.</li>
 <li>Create a .qbloq version for <Qosmetics> mod for Occulus Quest.</li></ul>
+
 
 ## Final Solution:
 <ul><li>Mod uses existing Custom Notes mod for BeatSaber on PC.</li>
@@ -24,7 +25,9 @@ Action Items:
 <li>Mod includes built-in extra large arrow</li>
 <li>NOTE: does not work with some ingame modifiers, such as "ghost notes".</li></ul>
 
+
 <a href="https://github.com/Uriel1339/ModA11y/raw/cc9db171d835a72f629cebb05158cdda86a1a158/WirecrossBloq.bloq">Download the WireCube Mod for BeatSaber by clicking here.</a>
+
 
 **How to use this mod:**
 The easiest way to mod Beat Saber is by using Mod-Assistant by following the following tutorial:
