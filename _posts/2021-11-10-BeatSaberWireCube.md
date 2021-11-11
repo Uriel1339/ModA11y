@@ -26,7 +26,7 @@ NOTE: does not work with some ingame modifiers, such as "ghost notes".
 
 [Download the BeatSaber WireCubes Mod by clicking here](https://github.com/Uriel1339/ModA11y/raw/cc9db171d835a72f629cebb05158cdda86a1a158/WirecrossBloq.bloq)
 
-**How to use this mod:
+**How to use this mod:**
 The easiest way to mod Beat Saber is by using Mod-Assistant by following this tutorial: 
 https://bsmg.wiki/pc-modding.html#mod-assistant
 
