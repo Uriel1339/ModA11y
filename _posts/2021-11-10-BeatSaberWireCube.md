@@ -6,23 +6,23 @@ permalink: /mod-project/beat-saber-wire-cube
 ---
 
 ## The Problem:
-<ol><li>Normal bloq (cube) causes visual overload in high note-density songs.</li>
-<li>Arrow on default bloq is highly stylised, and therefore less readable.</li></ol>
+<ul><li>Normal bloq (cube) causes visual overload in high note-density songs.</li>
+<li>Arrow on default bloq is highly stylised, and therefore less readable.</li></ul>
 
 ## Proposed Solution:
 Solution Requirements:
-<ol><li>Blocks take up less screen space and/or is less distracting.</li>
-<li>The directional arrow becomes more clear.</li></ol>
+<ul><li>Blocks take up less screen space and/or is less distracting.</li>
+<li>The directional arrow becomes more clear.</li></ul>
 
 Action Items:
-<ol><li>Create a replacement .bloq usesable with the <Custom Notes> mod for PC.</li>
-  <li>Create a .qbloq version for <Qosmetics> mod for Occulus Quest.</li></ol>
+<ul><li>Create a replacement .bloq usesable with the <Custom Notes> mod for PC.</li>
+  <li>Create a .qbloq version for <Qosmetics> mod for Occulus Quest.</li></ul>
 
 ## Final Solution:
-<ol><li>Mod uses existing Custom Notes mod for BeatSaber on PC.</li>
+<ul><li>Mod uses existing Custom Notes mod for BeatSaber on PC.</li>
 <li>Mod functions with in-game custom colours.</li>
 <li>Mod includes built-in extra large arrow</li>
-<li>NOTE: does not work with some ingame modifiers, such as "ghost notes".</li></ol>
+<li>NOTE: does not work with some ingame modifiers, such as "ghost notes".</li></ul>
 
 [Download the BeatSaber WireCubes Mod by clicking here](https://github.com/Uriel1339/ModA11y/raw/cc9db171d835a72f629cebb05158cdda86a1a158/WirecrossBloq.bloq)
 
@@ -40,7 +40,7 @@ If you encounter issues there's a lovely community at [https://discord.gg/beatsa
 Each update to Beat Saber requires updating of mods, so there may be times after an update when the mod is unavailable. 
   
 ## To-Do:
-<ol><li>.qbloq version to be made.</li>
-<li>May need updates for future versions of <Custom Notes>/<Qosmetics>.</li>
+<ul><li>.qbloq version to be made.</li>
+<li>May need updates for future versions of <Custom Notes>/<Qosmetics>.</li></ul>
 
 [Back to Homepage](https://www.moda11y.com)
