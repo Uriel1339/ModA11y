@@ -16,7 +16,7 @@ permalink: /mod-project/beat-saber-wire-cube
 
 **Action Items:**
 <ul><li>Create a replacement .bloq usesable with the Custom Notes mod for PC.</li>
-  <li>Create a .qbloq version for Qosmetics mod for Occulus Quest.</li></ul>
+<li>Create a .qbloq version for Qosmetics mod for Occulus Quest.</li></ul>
 
 ## Final Solution:
 Mod uses existing Custom Notes mod for BeatSaber on PC.
@@ -30,13 +30,13 @@ NOTE: does not work with some ingame modifiers, such as "ghost notes".
 **How to use this mod:**
 The easiest way to mod Beat Saber is by using Mod-Assistant by following the following tutorial:
 
-https://bsmg.wiki/pc-modding.html#mod-assistant
+[https://bsmg.wiki/pc-modding.html#mod-assistant](https://bsmg.wiki/pc-modding.html#mod-assistant)
 
 When Mod-Assistant is installed, Custom Notes should be available to install among the Cosmetic mods. If it is not available on the Mod-Assistant, additional information may be found on their github page : 
 
-https://github.com/legoandmars/BeatSaberCustomNotes
+[https://github.com/legoandmars/BeatSaberCustomNotes](https://github.com/legoandmars/BeatSaberCustomNotes)
 
-If you encounter issues there's a lovely community at https://discord.gg/beatsabermods https://discord.gg/beatsabermods with dedicated help channels for seeking support.
+If you encounter issues there's a lovely community at [https://discord.gg/beatsabermods](https://discord.gg/beatsabermods) with dedicated help channels for seeking support.
 
 Each update to Beat Saber requires updating of mods, so there may be times after an update when the mod is unavailable. 
   
