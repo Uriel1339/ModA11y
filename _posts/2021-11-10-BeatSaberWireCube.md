@@ -16,7 +16,7 @@ permalink: /mod-project/beat-saber-wire-cube
 
 **Action Items:**
 <ul><li>Create a replacement .bloq usesable with the Custom Notes mod for PC.</li>
-<li>Create a .qbloq version for <Qosmetics> mod for Occulus Quest.</li></ul>
+  <li>Create a .qbloq version for Qosmetics mod for Occulus Quest.</li></ul>
 
 ## Final Solution:
 Mod uses existing Custom Notes mod for BeatSaber on PC.
